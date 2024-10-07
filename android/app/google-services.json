@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794003915963",
+    "project_id": "notificationtutorial-ec882",
+    "storage_bucket": "notificationtutorial-ec882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794003915963:android:c69bfa0fb600dc455a959e",
+        "android_client_info": {
+          "package_name": "com.flutter_notification_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06UQ5Fs4-qGaa7CzqFGuNu7Ebo5wGzOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794003915963:android:53f97b26df849d755a959e",
+        "android_client_info": {
+          "package_name": "com.medrechealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06UQ5Fs4-qGaa7CzqFGuNu7Ebo5wGzOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
